@@ -2,6 +2,7 @@
   "name": "session-js-11",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://mamy1ova.github.io/Store",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
